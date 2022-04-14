@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Pendrive",
+      "price": 69.9
+    },
+    {
+      "id": 1,
+      "name": "Tablet-pen",
+      "price": 569.9
+    },
+    {
+      "id": 2,
+      "name": "Note Book Mac PRO",
+      "price": 12569.85
+    },
+    {
+      "id": 3,
+      "name": "Desktop Gammer",
+      "price": 7099.85
+    },
+    {
+      "name": "Printer 3D",
+      "price": "18080.00",
+      "id": 4
+    }
+  ]
+}
