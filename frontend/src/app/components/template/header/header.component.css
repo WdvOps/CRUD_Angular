@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    align-items: center;
+}
+.header .title-group a {
+    display: flex;
+    gap: 8px;
+    text-decoration: none;
+    cursor: pointer;
+    align-items: center;
+    color: #000;
+}
+
+.header .title-group {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+.header .mat-icon {
+    margin-left: 20px;
+}
